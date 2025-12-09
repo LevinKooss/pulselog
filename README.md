@@ -7,7 +7,7 @@
 
 **A privacy-first, aesthetic workout tracker built for hybrid athletes.**
 
-> 🚀 **Live Demo:** [https://pulselog.vercel.app](Hier Deinen Vercel Link einfügen)
+> 🚀 **Live Demo:** https://pulselog-gray.vercel.app/
 
 PulseLog bridges the gap between **high-fidelity UX design** and **robust frontend engineering**. It allows users to track hybrid training routines—from complex gym sessions to cardio activities—with a focus on speed, aesthetics, and offline capability.
 
@@ -87,7 +87,7 @@ Assets - Custom SVG Components
 
 Clone the repository
 Bash
-git clone [https://github.com/DEIN_USERNAME/pulselog.git](https://github.com/DEIN_USERNAME/pulselog.git)
+git clone [https://github.com/LevinKooss/pulselog.git](https://github.com/LevinKooss/pulselog.git)
 
 Install dependencies
 Bash
